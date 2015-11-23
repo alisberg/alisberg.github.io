@@ -16,6 +16,11 @@ angular.module('jaimino')
       'title': 'Portfolio',
       'link': '#portfolio',
       'scroll': 'portfolio'
+    },
+    {
+      'title': 'Contact',
+      'link': '#contact',
+      'scroll': 'contact'
     }
     ];
 
