@@ -4,15 +4,18 @@ angular.module('jaimino')
   .controller('NavbarCtrl', function ($scope, $location) {
     $scope.menu = [{
       'title': 'Home',
-      'link': '#/'
+      'link': '#page-top',
+      'scroll': 'page-top'
     },
     {
       'title': 'About',
-      'link': '#/about'
+      'link': '#about-me',
+      'scroll': 'about-me'
     },
     {
-      'title': 'Projects',
-      'link': '#/projects'
+      'title': 'Portfolio',
+      'link': '#portfolio',
+      'scroll': 'portfolio'
     }
     ];
 
