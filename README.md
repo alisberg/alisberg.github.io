@@ -1,4 +1,4 @@
-# jaaimino.github.io
+# alisberg.github.io
 
 My personal site, built as an angular SPA for easing serving from github pages.
 
